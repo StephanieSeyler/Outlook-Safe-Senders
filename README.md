@@ -28,7 +28,7 @@ not support offered
 Stephanie Seyler  
 
 ## Project Status
-Project is deployed to Production.
+Project is production ready
 
 ## license 
 [MIT](https://choosealicense.com/licenses/mit/)
