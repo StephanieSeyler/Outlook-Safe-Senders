@@ -8,7 +8,7 @@ Updates users based on a data file to add or remove domains and addresses from t
 
 ## Installation
 
-1. Download the Repository from the RES Infrastructure Project page that will contain all scripts and supporting files.
+1. Download the Repository from the Project page that will contain all scripts and supporting files.
 2. Install ExchangePowershell module
 ```Powershell
 Install-Module -Name ExchangeOnlineManagement -RequiredVersion 2.0.3
